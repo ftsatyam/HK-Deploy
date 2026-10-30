@@ -1,5 +1,4 @@
-FROM mysterysd/wzmlx:wzadv
-# COPY --from=mysterysd/wzmlx:m-tools /usr/local /usr/local
+FROM thezake/fwz:v4
 
 WORKDIR /usr/src/app
 
